@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: byteSnap
+Version: 0.1.0
+Summary: A utility to manage image files by creating folders and copying them.
+Home-page: https://github.com/ft.yama/byteSnap
+Author: Your Name
+Author-email: your.email@example.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
+
+# byteSnap
+
+A Python utility to manage image files by creating folders and copying them.
+
+## Installation
+```bash
+pip install byteSnap

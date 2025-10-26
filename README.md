@@ -1,2 +1,7 @@
 # byteSnap
-# byteSnap  `byteSnap` is a simple Python utility that copies binary or media files through an intermediate `.bin` file and restores them with their original extension. This can be useful for backup, file transfer, or data manipulation workflows.  ## Features  - Automatically creates intermediate and destination folders if they don't exist. - Ensures the final file keeps the original file extension. - Fixed intermediate file name: `middlefile.bin`. - Works with any binary file type (`.txt`, `.jpg`, `.mp4`, `.mov`, etc.). - Prints progress messages for each step.  ## Usage  ```python from byteSnap import byteSnap  # Copy and restore a file byteSnap(     old="images\\cat.jpg",     middle_folder="output\\middle",     last_folder="output\\restored" )
+
+A Python utility to manage image files by creating folders and copying them.
+
+## Installation
+```bash
+pip install byteSnap

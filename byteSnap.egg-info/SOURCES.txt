@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+byteSnap/__init__.py
+byteSnap/byteSnap.py
+byteSnap/byteSnap_help.py
+byteSnap.egg-info/PKG-INFO
+byteSnap.egg-info/SOURCES.txt
+byteSnap.egg-info/dependency_links.txt
+byteSnap.egg-info/top_level.txt
